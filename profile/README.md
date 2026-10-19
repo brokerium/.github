@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/brokerium/brokerium">Repository</a> ·
   <a href="https://github.com/brokerium/brokerium/releases/latest">Latest release</a> ·
-  <a href="https://github.com/brokerium/brokerium/tree/main/docs/guide">Documentation</a> ·
+  <a href="https://brokerium.kaufen/docs/">Documentation</a> ·
   <a href="https://hub.docker.com/r/bvaliev/brokerium-server">Docker Hub</a> ·
   <a href="https://brokerium.kaufen">Website</a>
 </p>
