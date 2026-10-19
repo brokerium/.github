@@ -31,8 +31,8 @@
   MSK, Confluent Cloud and Aiven.
 
 Brokerium is source-available under the PolyForm Shield License 1.0.0: free to use, including in
-production. Questions about licensing: start a
-[discussion](https://github.com/brokerium/brokerium/discussions) titled `[Licensing] ...`.
+production. Questions about licensing:
+[licensing@brokerium.kaufen](mailto:licensing@brokerium.kaufen).
 
 <sub>Apache®, Apache Kafka® and Kafka® are either registered trademarks or trademarks of the
 Apache Software Foundation in the United States and/or other countries. Brokerium is not
